@@ -1,0 +1,601 @@
+﻿item_id,country,template,panel,prompt_zh,prompt_en,prompt_sv
+CN-Ni-en-11,CN,Ni-en-11,matched,"在中国，取得学士学位后，通常还要读多少年才能获得硕士学位？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","In China, how many years does it typically take to complete a master’s degree after a bachelor’s degree?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många år tar det vanligtvis att ta en masterexamen efter en kandidatexamen i Kina?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+CN-New-en-70,CN,New-en-70,matched,"在中国，高中一年通常有几次学校假期？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","How many school breaks do high schools in China typically have per year?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många skollov brukar gymnasieskolor i Kina ha per år?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+CN-Tmp-ar-02,CN,Tmp-ar-02,matched,"在中国，人们通常乘坐哪种公共交通工具去大学？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What form of public transport do people commonly use to get to university in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket kollektivtrafikmedel brukar man använda för att ta sig till universitetet i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-as-64,CN,New-as-64,matched,"在中国，一家人通常会在哪个节日团聚？
+请只给一个简短答案。如果不确定，请回答“不确定”。","On which holiday do all family members tend to get together in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Under vilken högtid brukar hela familjen samlas i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-ko-04,CN,New-ko-04,matched,"在中国，哪种玩具最受男孩欢迎？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of toy is most popular among boys in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken typ av leksak är populärast bland pojkar i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Ki-pe-34,CN,Ki-pe-34,matched,"在中国，人们早餐时通常喝什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What do people usually drink with breakfast in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar man dricka till frukost i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-ch-14,CN,New-ch-14,matched,"在中国，人们生病时通常吃什么食物？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of food do people usually eat when they are sick in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar man äta när man är sjuk i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-ch-15,CN,New-ch-15,matched,"在中国，人们通常会在超市买哪种即食或预制食品？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of prepared or ready-to-eat food do people commonly buy at supermarkets in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken sorts färdiglagad eller ätfärdig mat brukar folk köpa i mataffärer i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Jod-ch-28,CN,Jod-ch-28,matched,"在中国，人们在城市之间出行时最常用的公共交通工具是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most commonly used form of public transport for travelling between cities in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket kollektivtrafikmedel används mest för resor mellan städer i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Na-ko-39,CN,Na-ko-39,matched,"在中国，参加朋友的婚礼时，人们通常送什么来表示祝贺？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What do people in China typically give to congratulate a friend at their wedding?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar man ge som gratulation på en väns bröllop i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-ch-78,CN,New-ch-78,matched,"在中国，退休女性通常喜欢哪种休闲活动？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What leisure activity do retired women in China typically enjoy?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken fritidsaktivitet brukar pensionerade kvinnor i Kina tycka om?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Kik-in-34,CN,Kik-in-34,matched,"在中国，全国性电视台经常转播哪项体育运动？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What sport is often broadcast on national television in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken sport sänds ofta på nationell tv i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Kik-in-45,CN,Kik-in-45,matched,"在中国，学校通常配有哪种运动场地或设施？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of sports facility do schools in China usually have?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken typ av idrottsanläggning brukar skolor i Kina ha?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Th-en-15,CN,Th-en-15,matched,"在中国，最受欢迎的冬季运动是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most popular winter sport in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken är den populäraste vintersporten i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Ne-ar-18,CN,Ne-ar-18,matched,"在中国，大多数人通常几点下班？
+请只用 24 小时制的 HH:MM 格式作答。如果不确定，请回答“不确定”。","What time do most people finish work in China?
+Answer using only the 24-hour HH:MM format. If you are unsure, say “Not sure”.","Vilken tid brukar de flesta sluta arbeta i Kina?
+Svara enbart med 24-timmarsformatet HH:MM. Om du är osäker, svara ”Osäker”."
+CN-New-ch-32,CN,New-ch-32,matched,"在中国，人们在工作场所通常使用哪种办公软件？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What office software do people typically use at work in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket kontorsprogram brukar man använda på jobbet i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Gu-ch-16,CN,Gu-ch-16,matched,"在中国，一个家庭平均有多少人？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","How many people are there in a family on average in China?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många personer ingår i en familj i genomsnitt i Kina?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+CN-New-ch-08,CN,New-ch-08,matched,"在中国，烹饪中哪种调味料不可或缺？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What seasoning is considered indispensable in cooking in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken krydda eller smaksättare anses oumbärlig vid matlagning i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Na-ko-37,CN,Na-ko-37,matched,"对中国人来说，最受欢迎的国内度假地点是哪里？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most popular domestic holiday destination for people in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket semestermål inom landet är populärast bland människor i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-ch-44,CN,New-ch-44,matched,"在中国，新员工签正式合同前的试用期通常有多长？
+请只给一个简短答案。如果不确定，请回答“不确定”。","How long is the typical probation period for new employees before signing a formal contract in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Hur lång brukar prövotiden vara för nyanställda innan de skriver på ett formellt anställningsavtal i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-as-58,CN,New-as-58,matched,"在中国，人们在工作时最喜欢喝什么饮料？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most popular drink at workplaces in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken dryck är populärast att dricka på arbetsplatser i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-ch-26,CN,New-ch-26,matched,"在中国，哪项冬奥会比赛最受观众欢迎？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which Winter Olympic event is most popular to watch in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken gren i vinter-OS är populärast att titta på i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-ch-84,CN,New-ch-84,matched,"在中国，人们出席婚礼时通常穿什么颜色的衣服？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What colour of clothing do people in China typically wear when attending a wedding?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken färg brukar människor i Kina ha på sina kläder när de går på bröllop?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-ch-74,CN,New-ch-74,matched,"在中国，大学生通常住在哪类住所？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What type of accommodation do university students in China typically live in?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken typ av boende bor universitetsstudenter i Kina vanligtvis i?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-az-12,CN,New-az-12,matched,"在中国，哪个地区以海鲜闻名？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which region in China is known for its seafood?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken del av Kina är känd för sina fisk- och skaldjursrätter?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Th-en-38,CN,Th-en-38,matched,"在中国，对家庭来说最重要的节日是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most important family holiday in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken är den viktigaste högtiden för familjer i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Ji-ko-41,CN,Ji-ko-41,matched,"在中国，学生上学时通常穿哪种鞋？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of shoes do students in China typically wear at school?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken typ av skor brukar elever i Kina ha på sig i skolan?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-su-59,CN,New-su-59,matched,"在中国，农民在炎热天气下务农时通常穿戴什么来防暑？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What do farmers in China typically wear to protect themselves from the heat while farming?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar lantbrukare i Kina ha på sig för att skydda sig mot värmen när de arbetar?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-ch-54,CN,New-ch-54,matched,"在中国，家庭聚餐时最常准备哪种水果？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What fruit is most commonly served at family dinners in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken frukt brukar oftast serveras vid familjemiddagar i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Kik-in-15,CN,Kik-in-15,matched,"在中国，女性通常穿什么参加毕业典礼？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What do women in China usually wear at graduation ceremonies?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar kvinnor i Kina ha på sig vid examensceremonier?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-An-ar-36,CN,An-ar-36,matched,"在中国，最受欢迎的是哪支运动队？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What sports team is most popular in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket idrottslag är populärast i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Gu-ch-41,CN,Gu-ch-41,matched,"在中国，小学生通常会演奏几种乐器？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","How many musical instruments do primary school pupils in China typically play?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många musikinstrument brukar elever i grundskolans lägre årskurser i Kina spela?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+CN-New-gr-24,CN,New-gr-24,matched,"在中国，最受欢迎的田径项目是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which track and field event is most popular in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken friidrottsgren är populärast i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Ne-ar-33,CN,Ne-ar-33,matched,"在中国，人们通常几点吃午饭？
+请只用 24 小时制的 HH:MM 格式作答。如果不确定，请回答“不确定”。","What time do people in China usually eat lunch?
+Answer using only the 24-hour HH:MM format. If you are unsure, say “Not sure”.","Vilken tid brukar man äta lunch i Kina?
+Svara enbart med 24-timmarsformatet HH:MM. Om du är osäker, svara ”Osäker”."
+CN-New-en-59,CN,New-en-59,matched,"中国的家庭最常移民到哪个国家？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which country is the most popular destination for families from China to emigrate to?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket land är det vanligaste målet för familjer som emigrerar från Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-su-58,CN,New-su-58,matched,"在中国，农业中通常会用到哪种动物？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What animal is commonly used in agriculture in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket djur används ofta i jordbruket i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Kik-in-10,CN,Kik-in-10,matched,"在中国，最受外国游客欢迎的景点是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What tourist attraction in China is most popular with foreign visitors?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken turistattraktion i Kina är populärast bland utländska besökare?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-en-07,CN,New-en-07,matched,"在中国，哪档烹饪节目最受欢迎？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which cooking show is most popular in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket matlagningsprogram är populärast i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-spme-78,CN,New-spme-78,matched,"在中国，生日聚会上通常唱的歌叫什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the name of the song usually sung at birthday parties in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad heter sången som brukar sjungas på födelsedagskalas i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Jod-ch-50,CN,Jod-ch-50,matched,"在中国，人们的平均通勤时间是多少分钟？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","What is the average commute time in minutes in China?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur lång är den genomsnittliga pendlingstiden i minuter i Kina?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+CN-Ta-pe-13,CN,Ta-pe-13,matched,"在中国，你父母那一辈的家庭平均有多少人？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","In China, how many people were there in an average family in your parents’ generation?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många personer ingick i en genomsnittlig familj i dina föräldrars generation i Kina?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+CN-Ta-pe-23,CN,Ta-pe-23,matched,"在中国，哪种日常锻炼方式在男性中比较受欢迎？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What form of everyday exercise is popular among men in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken form av vardagsmotion är populär bland män i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Ni-en-15,CN,Ni-en-15,matched,"在中国，孩子通常几岁开始上初中？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","At what age do children in China generally start lower secondary school?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Vid vilken ålder börjar barn i Kina vanligtvis på högstadiet eller motsvarande skolstadium?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+CN-Gu-ch-33,CN,Gu-ch-33,matched,"在中国，学生通常从几岁开始学习第二语言？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","At what age do students in China usually start learning a second language?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Vid vilken ålder börjar elever i Kina vanligtvis lära sig ett andraspråk?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+CN-New-as-30,CN,New-as-30,matched,"在中国，女性喜欢看哪项体育运动？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What sport do women in China like to watch?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken sport brukar kvinnor i Kina tycka om att titta på?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-New-gr-82,CN,New-gr-82,matched,"在中国，老年人最喜欢哪种音乐类型？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What genre of music is most popular among older people in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken musikgenre är populärast bland äldre i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Ji-ko-15,CN,Ji-ko-15,matched,"在中国，午休通常有多少小时？
+请只写数字，最多保留一位小数。如果不确定，请回答“不确定”。","How many hours is a typical lunch break in China?
+Answer with a number, using at most one decimal place. If you are unsure, say “Not sure”.","Hur många timmar varar en vanlig lunchrast i Kina?
+Svara med ett tal med högst en decimal. Om du är osäker, svara ”Osäker”."
+CN-Th-en-37,CN,Th-en-37,matched,"在中国，子女通常几岁开始独立于父母？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","At what age do children in China typically become independent of their parents?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Vid vilken ålder blir barn i Kina vanligtvis självständiga från sina föräldrar?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+CN-Al-en-09,CN,Al-en-09,matched,"在中国，游乐园里有什么受欢迎的小吃？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is a popular snack at amusement parks in China?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket tilltugg är populärt på nöjesparker i Kina?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+CN-Ca-sp-05,CN,Ca-sp-05,matched,"在中国，人们通常一天吃几顿饭？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","How many meals a day do people in China usually eat?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många måltider om dagen brukar man äta i Kina?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+US-Ni-en-11,US,Ni-en-11,matched,"在美国，取得学士学位后，通常还要读多少年才能获得硕士学位？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","In the US, how many years does it typically take to complete a master’s degree after a bachelor’s degree?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många år tar det vanligtvis att ta en masterexamen efter en kandidatexamen i USA?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+US-New-en-70,US,New-en-70,matched,"在美国，高中一年通常有几次学校假期？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","How many school breaks do high schools in the US typically have per year?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många skollov brukar gymnasieskolor i USA ha per år?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+US-Tmp-ar-02,US,Tmp-ar-02,matched,"在美国，人们通常乘坐哪种公共交通工具去大学？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What form of public transport do people commonly use to get to university in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket kollektivtrafikmedel brukar man använda för att ta sig till universitetet i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-as-64,US,New-as-64,matched,"在美国，一家人通常会在哪个节日团聚？
+请只给一个简短答案。如果不确定，请回答“不确定”。","On which holiday do all family members tend to get together in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Under vilken högtid brukar hela familjen samlas i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-ko-04,US,New-ko-04,matched,"在美国，哪种玩具最受男孩欢迎？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of toy is most popular among boys in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken typ av leksak är populärast bland pojkar i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Ki-pe-34,US,Ki-pe-34,matched,"在美国，人们早餐时通常喝什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What do people usually drink with breakfast in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar man dricka till frukost i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-ch-14,US,New-ch-14,matched,"在美国，人们生病时通常吃什么食物？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of food do people usually eat when they are sick in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar man äta när man är sjuk i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-ch-15,US,New-ch-15,matched,"在美国，人们通常会在超市买哪种即食或预制食品？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of prepared or ready-to-eat food do people commonly buy at supermarkets in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken sorts färdiglagad eller ätfärdig mat brukar folk köpa i mataffärer i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Jod-ch-28,US,Jod-ch-28,matched,"在美国，人们在城市之间出行时最常用的公共交通工具是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most commonly used form of public transport for travelling between cities in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket kollektivtrafikmedel används mest för resor mellan städer i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Na-ko-39,US,Na-ko-39,matched,"在美国，参加朋友的婚礼时，人们通常送什么来表示祝贺？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What do people in the US typically give to congratulate a friend at their wedding?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar man ge som gratulation på en väns bröllop i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-ch-78,US,New-ch-78,matched,"在美国，退休女性通常喜欢哪种休闲活动？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What leisure activity do retired women in the US typically enjoy?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken fritidsaktivitet brukar pensionerade kvinnor i USA tycka om?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Kik-in-34,US,Kik-in-34,matched,"在美国，全国性电视台经常转播哪项体育运动？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What sport is often broadcast on national television in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken sport sänds ofta på nationell tv i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Kik-in-45,US,Kik-in-45,matched,"在美国，学校通常配有哪种运动场地或设施？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of sports facility do schools in the US usually have?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken typ av idrottsanläggning brukar skolor i USA ha?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Th-en-15,US,Th-en-15,matched,"在美国，最受欢迎的冬季运动是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most popular winter sport in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken är den populäraste vintersporten i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Ne-ar-18,US,Ne-ar-18,matched,"在美国，大多数人通常几点下班？
+请只用 24 小时制的 HH:MM 格式作答。如果不确定，请回答“不确定”。","What time do most people finish work in the US?
+Answer using only the 24-hour HH:MM format. If you are unsure, say “Not sure”.","Vilken tid brukar de flesta sluta arbeta i USA?
+Svara enbart med 24-timmarsformatet HH:MM. Om du är osäker, svara ”Osäker”."
+US-New-ch-32,US,New-ch-32,matched,"在美国，人们在工作场所通常使用哪种办公软件？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What office software do people typically use at work in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket kontorsprogram brukar man använda på jobbet i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Gu-ch-16,US,Gu-ch-16,matched,"在美国，一个家庭平均有多少人？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","How many people are there in a family on average in the US?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många personer ingår i en familj i genomsnitt i USA?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+US-New-ch-08,US,New-ch-08,matched,"在美国，烹饪中哪种调味料不可或缺？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What seasoning is considered indispensable in cooking in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken krydda eller smaksättare anses oumbärlig vid matlagning i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Na-ko-37,US,Na-ko-37,matched,"对美国人来说，最受欢迎的国内度假地点是哪里？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most popular domestic holiday destination for people in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket semestermål inom landet är populärast bland människor i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-ch-44,US,New-ch-44,matched,"在美国，新员工签正式合同前的试用期通常有多长？
+请只给一个简短答案。如果不确定，请回答“不确定”。","How long is the typical probation period for new employees before signing a formal contract in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Hur lång brukar prövotiden vara för nyanställda innan de skriver på ett formellt anställningsavtal i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-as-58,US,New-as-58,matched,"在美国，人们在工作时最喜欢喝什么饮料？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most popular drink at workplaces in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken dryck är populärast att dricka på arbetsplatser i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-ch-26,US,New-ch-26,matched,"在美国，哪项冬奥会比赛最受观众欢迎？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which Winter Olympic event is most popular to watch in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken gren i vinter-OS är populärast att titta på i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-ch-84,US,New-ch-84,matched,"在美国，人们出席婚礼时通常穿什么颜色的衣服？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What colour of clothing do people in the US typically wear when attending a wedding?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken färg brukar människor i USA ha på sina kläder när de går på bröllop?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-ch-74,US,New-ch-74,matched,"在美国，大学生通常住在哪类住所？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What type of accommodation do university students in the US typically live in?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken typ av boende bor universitetsstudenter i USA vanligtvis i?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-az-12,US,New-az-12,matched,"在美国，哪个地区以海鲜闻名？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which region in the US is known for its seafood?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken del av USA är känd för sina fisk- och skaldjursrätter?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Th-en-38,US,Th-en-38,matched,"在美国，对家庭来说最重要的节日是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most important family holiday in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken är den viktigaste högtiden för familjer i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Ji-ko-41,US,Ji-ko-41,matched,"在美国，学生上学时通常穿哪种鞋？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of shoes do students in the US typically wear at school?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken typ av skor brukar elever i USA ha på sig i skolan?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-su-59,US,New-su-59,matched,"在美国，农民在炎热天气下务农时通常穿戴什么来防暑？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What do farmers in the US typically wear to protect themselves from the heat while farming?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar lantbrukare i USA ha på sig för att skydda sig mot värmen när de arbetar?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-ch-54,US,New-ch-54,matched,"在美国，家庭聚餐时最常准备哪种水果？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What fruit is most commonly served at family dinners in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken frukt brukar oftast serveras vid familjemiddagar i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Kik-in-15,US,Kik-in-15,matched,"在美国，女性通常穿什么参加毕业典礼？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What do women in the US usually wear at graduation ceremonies?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar kvinnor i USA ha på sig vid examensceremonier?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-An-ar-36,US,An-ar-36,matched,"在美国，最受欢迎的是哪支运动队？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What sports team is most popular in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket idrottslag är populärast i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Gu-ch-41,US,Gu-ch-41,matched,"在美国，小学生通常会演奏几种乐器？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","How many musical instruments do primary school pupils in the US typically play?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många musikinstrument brukar elever i grundskolans lägre årskurser i USA spela?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+US-New-gr-24,US,New-gr-24,matched,"在美国，最受欢迎的田径项目是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which track and field event is most popular in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken friidrottsgren är populärast i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Ne-ar-33,US,Ne-ar-33,matched,"在美国，人们通常几点吃午饭？
+请只用 24 小时制的 HH:MM 格式作答。如果不确定，请回答“不确定”。","What time do people in the US usually eat lunch?
+Answer using only the 24-hour HH:MM format. If you are unsure, say “Not sure”.","Vilken tid brukar man äta lunch i USA?
+Svara enbart med 24-timmarsformatet HH:MM. Om du är osäker, svara ”Osäker”."
+US-New-en-59,US,New-en-59,matched,"美国的家庭最常移民到哪个国家？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which country is the most popular destination for families from the US to emigrate to?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket land är det vanligaste målet för familjer som emigrerar från USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-su-58,US,New-su-58,matched,"在美国，农业中通常会用到哪种动物？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What animal is commonly used in agriculture in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket djur används ofta i jordbruket i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Kik-in-10,US,Kik-in-10,matched,"在美国，最受外国游客欢迎的景点是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What tourist attraction in the US is most popular with foreign visitors?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken turistattraktion i USA är populärast bland utländska besökare?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-en-07,US,New-en-07,matched,"在美国，哪档烹饪节目最受欢迎？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which cooking show is most popular in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket matlagningsprogram är populärast i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-spme-78,US,New-spme-78,matched,"在美国，生日聚会上通常唱的歌叫什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the name of the song usually sung at birthday parties in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad heter sången som brukar sjungas på födelsedagskalas i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Jod-ch-50,US,Jod-ch-50,matched,"在美国，人们的平均通勤时间是多少分钟？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","What is the average commute time in minutes in the US?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur lång är den genomsnittliga pendlingstiden i minuter i USA?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+US-Ta-pe-13,US,Ta-pe-13,matched,"在美国，你父母那一辈的家庭平均有多少人？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","In the US, how many people were there in an average family in your parents’ generation?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många personer ingick i en genomsnittlig familj i dina föräldrars generation i USA?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+US-Ta-pe-23,US,Ta-pe-23,matched,"在美国，哪种日常锻炼方式在男性中比较受欢迎？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What form of everyday exercise is popular among men in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken form av vardagsmotion är populär bland män i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Ni-en-15,US,Ni-en-15,matched,"在美国，孩子通常几岁开始上初中？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","At what age do children in the US generally start lower secondary school?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Vid vilken ålder börjar barn i USA vanligtvis på högstadiet eller motsvarande skolstadium?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+US-Gu-ch-33,US,Gu-ch-33,matched,"在美国，学生通常从几岁开始学习第二语言？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","At what age do students in the US usually start learning a second language?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Vid vilken ålder börjar elever i USA vanligtvis lära sig ett andraspråk?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+US-New-as-30,US,New-as-30,matched,"在美国，女性喜欢看哪项体育运动？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What sport do women in the US like to watch?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken sport brukar kvinnor i USA tycka om att titta på?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-New-gr-82,US,New-gr-82,matched,"在美国，老年人最喜欢哪种音乐类型？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What genre of music is most popular among older people in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken musikgenre är populärast bland äldre i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Ji-ko-15,US,Ji-ko-15,matched,"在美国，午休通常有多少小时？
+请只写数字，最多保留一位小数。如果不确定，请回答“不确定”。","How many hours is a typical lunch break in the US?
+Answer with a number, using at most one decimal place. If you are unsure, say “Not sure”.","Hur många timmar varar en vanlig lunchrast i USA?
+Svara med ett tal med högst en decimal. Om du är osäker, svara ”Osäker”."
+US-Th-en-37,US,Th-en-37,matched,"在美国，子女通常几岁开始独立于父母？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","At what age do children in the US typically become independent of their parents?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Vid vilken ålder blir barn i USA vanligtvis självständiga från sina föräldrar?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+US-Al-en-09,US,Al-en-09,matched,"在美国，游乐园里有什么受欢迎的小吃？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is a popular snack at amusement parks in the US?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket tilltugg är populärt på nöjesparker i USA?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+US-Ca-sp-05,US,Ca-sp-05,matched,"在美国，人们通常一天吃几顿饭？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","How many meals a day do people in the US usually eat?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många måltider om dagen brukar man äta i USA?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+SE-Ni-en-11,SE,Ni-en-11,matched,"在瑞典，取得学士学位后，通常还要读多少年才能获得硕士学位？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","In Sweden, how many years does it typically take to complete a master’s degree after a bachelor’s degree?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många år tar det vanligtvis att ta en masterexamen efter en kandidatexamen i Sverige?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+SE-New-en-70,SE,New-en-70,matched,"在瑞典，高中一年通常有几次学校假期？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","How many school breaks do high schools in Sweden typically have per year?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många skollov brukar gymnasieskolor i Sverige ha per år?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+SE-Tmp-ar-02,SE,Tmp-ar-02,matched,"在瑞典，人们通常乘坐哪种公共交通工具去大学？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What form of public transport do people commonly use to get to university in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket kollektivtrafikmedel brukar man använda för att ta sig till universitetet i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-as-64,SE,New-as-64,matched,"在瑞典，一家人通常会在哪个节日团聚？
+请只给一个简短答案。如果不确定，请回答“不确定”。","On which holiday do all family members tend to get together in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Under vilken högtid brukar hela familjen samlas i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-ko-04,SE,New-ko-04,matched,"在瑞典，哪种玩具最受男孩欢迎？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of toy is most popular among boys in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken typ av leksak är populärast bland pojkar i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Ki-pe-34,SE,Ki-pe-34,matched,"在瑞典，人们早餐时通常喝什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What do people usually drink with breakfast in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar man dricka till frukost i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-ch-14,SE,New-ch-14,matched,"在瑞典，人们生病时通常吃什么食物？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of food do people usually eat when they are sick in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar man äta när man är sjuk i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-ch-15,SE,New-ch-15,matched,"在瑞典，人们通常会在超市买哪种即食或预制食品？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of prepared or ready-to-eat food do people commonly buy at supermarkets in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken sorts färdiglagad eller ätfärdig mat brukar folk köpa i mataffärer i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Jod-ch-28,SE,Jod-ch-28,matched,"在瑞典，人们在城市之间出行时最常用的公共交通工具是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most commonly used form of public transport for travelling between cities in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket kollektivtrafikmedel används mest för resor mellan städer i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Na-ko-39,SE,Na-ko-39,matched,"在瑞典，参加朋友的婚礼时，人们通常送什么来表示祝贺？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What do people in Sweden typically give to congratulate a friend at their wedding?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar man ge som gratulation på en väns bröllop i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-ch-78,SE,New-ch-78,matched,"在瑞典，退休女性通常喜欢哪种休闲活动？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What leisure activity do retired women in Sweden typically enjoy?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken fritidsaktivitet brukar pensionerade kvinnor i Sverige tycka om?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Kik-in-34,SE,Kik-in-34,matched,"在瑞典，全国性电视台经常转播哪项体育运动？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What sport is often broadcast on national television in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken sport sänds ofta på nationell tv i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Kik-in-45,SE,Kik-in-45,matched,"在瑞典，学校通常配有哪种运动场地或设施？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of sports facility do schools in Sweden usually have?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken typ av idrottsanläggning brukar skolor i Sverige ha?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Th-en-15,SE,Th-en-15,matched,"在瑞典，最受欢迎的冬季运动是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most popular winter sport in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken är den populäraste vintersporten i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Ne-ar-18,SE,Ne-ar-18,matched,"在瑞典，大多数人通常几点下班？
+请只用 24 小时制的 HH:MM 格式作答。如果不确定，请回答“不确定”。","What time do most people finish work in Sweden?
+Answer using only the 24-hour HH:MM format. If you are unsure, say “Not sure”.","Vilken tid brukar de flesta sluta arbeta i Sverige?
+Svara enbart med 24-timmarsformatet HH:MM. Om du är osäker, svara ”Osäker”."
+SE-New-ch-32,SE,New-ch-32,matched,"在瑞典，人们在工作场所通常使用哪种办公软件？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What office software do people typically use at work in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket kontorsprogram brukar man använda på jobbet i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Gu-ch-16,SE,Gu-ch-16,matched,"在瑞典，一个家庭平均有多少人？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","How many people are there in a family on average in Sweden?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många personer ingår i en familj i genomsnitt i Sverige?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+SE-New-ch-08,SE,New-ch-08,matched,"在瑞典，烹饪中哪种调味料不可或缺？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What seasoning is considered indispensable in cooking in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken krydda eller smaksättare anses oumbärlig vid matlagning i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Na-ko-37,SE,Na-ko-37,matched,"对瑞典人来说，最受欢迎的国内度假地点是哪里？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most popular domestic holiday destination for people in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket semestermål inom landet är populärast bland människor i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-ch-44,SE,New-ch-44,matched,"在瑞典，新员工签正式合同前的试用期通常有多长？
+请只给一个简短答案。如果不确定，请回答“不确定”。","How long is the typical probation period for new employees before signing a formal contract in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Hur lång brukar prövotiden vara för nyanställda innan de skriver på ett formellt anställningsavtal i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-as-58,SE,New-as-58,matched,"在瑞典，人们在工作时最喜欢喝什么饮料？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most popular drink at workplaces in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken dryck är populärast att dricka på arbetsplatser i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-ch-26,SE,New-ch-26,matched,"在瑞典，哪项冬奥会比赛最受观众欢迎？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which Winter Olympic event is most popular to watch in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken gren i vinter-OS är populärast att titta på i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-ch-84,SE,New-ch-84,matched,"在瑞典，人们出席婚礼时通常穿什么颜色的衣服？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What colour of clothing do people in Sweden typically wear when attending a wedding?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken färg brukar människor i Sverige ha på sina kläder när de går på bröllop?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-ch-74,SE,New-ch-74,matched,"在瑞典，大学生通常住在哪类住所？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What type of accommodation do university students in Sweden typically live in?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken typ av boende bor universitetsstudenter i Sverige vanligtvis i?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-az-12,SE,New-az-12,matched,"在瑞典，哪个地区以海鲜闻名？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which region in Sweden is known for its seafood?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken del av Sverige är känd för sina fisk- och skaldjursrätter?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Th-en-38,SE,Th-en-38,matched,"在瑞典，对家庭来说最重要的节日是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the most important family holiday in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken är den viktigaste högtiden för familjer i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Ji-ko-41,SE,Ji-ko-41,matched,"在瑞典，学生上学时通常穿哪种鞋？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What kind of shoes do students in Sweden typically wear at school?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken typ av skor brukar elever i Sverige ha på sig i skolan?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-su-59,SE,New-su-59,matched,"在瑞典，农民在炎热天气下务农时通常穿戴什么来防暑？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What do farmers in Sweden typically wear to protect themselves from the heat while farming?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar lantbrukare i Sverige ha på sig för att skydda sig mot värmen när de arbetar?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-ch-54,SE,New-ch-54,matched,"在瑞典，家庭聚餐时最常准备哪种水果？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What fruit is most commonly served at family dinners in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken frukt brukar oftast serveras vid familjemiddagar i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Kik-in-15,SE,Kik-in-15,matched,"在瑞典，女性通常穿什么参加毕业典礼？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What do women in Sweden usually wear at graduation ceremonies?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad brukar kvinnor i Sverige ha på sig vid examensceremonier?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-An-ar-36,SE,An-ar-36,matched,"在瑞典，最受欢迎的是哪支运动队？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What sports team is most popular in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket idrottslag är populärast i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Gu-ch-41,SE,Gu-ch-41,matched,"在瑞典，小学生通常会演奏几种乐器？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","How many musical instruments do primary school pupils in Sweden typically play?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många musikinstrument brukar elever i grundskolans lägre årskurser i Sverige spela?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+SE-New-gr-24,SE,New-gr-24,matched,"在瑞典，最受欢迎的田径项目是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which track and field event is most popular in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken friidrottsgren är populärast i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Ne-ar-33,SE,Ne-ar-33,matched,"在瑞典，人们通常几点吃午饭？
+请只用 24 小时制的 HH:MM 格式作答。如果不确定，请回答“不确定”。","What time do people in Sweden usually eat lunch?
+Answer using only the 24-hour HH:MM format. If you are unsure, say “Not sure”.","Vilken tid brukar man äta lunch i Sverige?
+Svara enbart med 24-timmarsformatet HH:MM. Om du är osäker, svara ”Osäker”."
+SE-New-en-59,SE,New-en-59,matched,"瑞典的家庭最常移民到哪个国家？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which country is the most popular destination for families from Sweden to emigrate to?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket land är det vanligaste målet för familjer som emigrerar från Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-su-58,SE,New-su-58,matched,"在瑞典，农业中通常会用到哪种动物？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What animal is commonly used in agriculture in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket djur används ofta i jordbruket i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Kik-in-10,SE,Kik-in-10,matched,"在瑞典，最受外国游客欢迎的景点是什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What tourist attraction in Sweden is most popular with foreign visitors?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken turistattraktion i Sverige är populärast bland utländska besökare?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-en-07,SE,New-en-07,matched,"在瑞典，哪档烹饪节目最受欢迎？
+请只给一个简短答案。如果不确定，请回答“不确定”。","Which cooking show is most popular in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket matlagningsprogram är populärast i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-spme-78,SE,New-spme-78,matched,"在瑞典，生日聚会上通常唱的歌叫什么？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is the name of the song usually sung at birthday parties in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vad heter sången som brukar sjungas på födelsedagskalas i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Jod-ch-50,SE,Jod-ch-50,matched,"在瑞典，人们的平均通勤时间是多少分钟？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","What is the average commute time in minutes in Sweden?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur lång är den genomsnittliga pendlingstiden i minuter i Sverige?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+SE-Ta-pe-13,SE,Ta-pe-13,matched,"在瑞典，你父母那一辈的家庭平均有多少人？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","In Sweden, how many people were there in an average family in your parents’ generation?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många personer ingick i en genomsnittlig familj i dina föräldrars generation i Sverige?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+SE-Ta-pe-23,SE,Ta-pe-23,matched,"在瑞典，哪种日常锻炼方式在男性中比较受欢迎？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What form of everyday exercise is popular among men in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken form av vardagsmotion är populär bland män i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Ni-en-15,SE,Ni-en-15,matched,"在瑞典，孩子通常几岁开始上初中？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","At what age do children in Sweden generally start lower secondary school?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Vid vilken ålder börjar barn i Sverige vanligtvis på högstadiet eller motsvarande skolstadium?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+SE-Gu-ch-33,SE,Gu-ch-33,matched,"在瑞典，学生通常从几岁开始学习第二语言？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","At what age do students in Sweden usually start learning a second language?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Vid vilken ålder börjar elever i Sverige vanligtvis lära sig ett andraspråk?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+SE-New-as-30,SE,New-as-30,matched,"在瑞典，女性喜欢看哪项体育运动？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What sport do women in Sweden like to watch?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken sport brukar kvinnor i Sverige tycka om att titta på?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-New-gr-82,SE,New-gr-82,matched,"在瑞典，老年人最喜欢哪种音乐类型？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What genre of music is most popular among older people in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilken musikgenre är populärast bland äldre i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Ji-ko-15,SE,Ji-ko-15,matched,"在瑞典，午休通常有多少小时？
+请只写数字，最多保留一位小数。如果不确定，请回答“不确定”。","How many hours is a typical lunch break in Sweden?
+Answer with a number, using at most one decimal place. If you are unsure, say “Not sure”.","Hur många timmar varar en vanlig lunchrast i Sverige?
+Svara med ett tal med högst en decimal. Om du är osäker, svara ”Osäker”."
+SE-Th-en-37,SE,Th-en-37,matched,"在瑞典，子女通常几岁开始独立于父母？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","At what age do children in Sweden typically become independent of their parents?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Vid vilken ålder blir barn i Sverige vanligtvis självständiga från sina föräldrar?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
+SE-Al-en-09,SE,Al-en-09,matched,"在瑞典，游乐园里有什么受欢迎的小吃？
+请只给一个简短答案。如果不确定，请回答“不确定”。","What is a popular snack at amusement parks in Sweden?
+Give just one short answer. If you are unsure, say “Not sure”.","Vilket tilltugg är populärt på nöjesparker i Sverige?
+Ge bara ett kort svar. Om du är osäker, svara ”Osäker”."
+SE-Ca-sp-05,SE,Ca-sp-05,matched,"在瑞典，人们通常一天吃几顿饭？
+请只用阿拉伯数字作答。如果不确定，请回答“不确定”。","How many meals a day do people in Sweden usually eat?
+Answer using Arabic numerals only. If you are unsure, say “Not sure”.","Hur många måltider om dagen brukar man äta i Sverige?
+Svara enbart med arabiska siffror. Om du är osäker, svara ”Osäker”."
